@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7270d559-30b2-4dc4-82f4-124dc7b7b3a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_ide_helper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/news.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel.local.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.local.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +24,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" hide_empty_superglobals="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="http://laravel.local/" id="cf13b0d8-4aa2-4539-bd23-401161715f00" name="http://laravel.local/" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="home/vagrant/code/laravel.local" />
+        </path_mappings>
+      </server>
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -151,13 +152,20 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Remote Debug.http://laravel.local/">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <configuration name="http://laravel.local/" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="http://laravel.local/" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Remote Debug.http://laravel.local/" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -167,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596884901252</updated>
-      <workItem from="1596884902708" duration="6295000" />
+      <workItem from="1596884902708" duration="10127000" />
     </task>
     <servers />
   </component>
@@ -175,17 +183,84 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="263" y="26" key="#Servers" timestamp="1596894131746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="26" key="#Servers/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596894131746" />
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596895439810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895439810" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596885505904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596885505904" />
+    <state width="1323" height="295" key="GridCell.Tab.0.bottom" timestamp="1596895930065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930065" />
+    <state width="1323" height="295" key="GridCell.Tab.0.center" timestamp="1596895930065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930065" />
+    <state width="1323" height="295" key="GridCell.Tab.0.left" timestamp="1596895930065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930065" />
+    <state width="1323" height="295" key="GridCell.Tab.0.right" timestamp="1596895930065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930065" />
+    <state width="1323" height="295" key="GridCell.Tab.1.bottom" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
+    <state width="1323" height="295" key="GridCell.Tab.1.center" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
+    <state width="1323" height="295" key="GridCell.Tab.1.left" timestamp="1596895930065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930065" />
+    <state width="1323" height="295" key="GridCell.Tab.1.right" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
+    <state width="1323" height="295" key="GridCell.Tab.2.bottom" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.2.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
+    <state width="1323" height="295" key="GridCell.Tab.2.center" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.2.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
+    <state width="1323" height="295" key="GridCell.Tab.2.left" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.2.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
+    <state width="1323" height="295" key="GridCell.Tab.2.right" timestamp="1596895930066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="295" key="GridCell.Tab.2.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895930066" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1596892326878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596892326878" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1596884931333">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1596895305852">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596884931333" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1596895305852" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/routes/web.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
